@@ -4,7 +4,7 @@
 
 ```
 authorization_list = ["你的authorization的值"]
-dict_chanel_list = {"你的authorization的值":["url上方的群号","支持多个群号"]
+dict_chanel_list = {"你的authorization的值":["url上方的群号","支持多个群号"]}
 ```
 > 你可以在自己电脑上运行，也可以在云服务器上运行
 
