@@ -1,19 +1,7 @@
-# discord-chat-tools
 
-### 使用须知
-
-```
-authorization_list = ["你的authorization的值"]
-dict_chanel_list = {"你的authorization的值":["url上方的群号","支持多个群号"]}
-```
-> 你可以在自己电脑上运行，也可以在云服务器上运行
-
-【腾讯云】1核2G云服务器首年38元 https://curl.qcloud.com/ljuS6cnp
-
----
-
-#由于discord使用用户过多，通过python 接口访问频繁出现443 访问被拒绝❌
-#此项目暂时无法使用了
+最新更新⬇️⬇️
+## 使用下面🔗在线运行，有疑问可以加我微信 zxmeng1999
+https://colab.research.google.com/drive/1na6TrIL0ntj4IHj2sIZhTPUKO4NWiArt?usp=sharing
 
 作者 🔗：https://linktr.ee/erwaplayblockchain （更多内容）
 
