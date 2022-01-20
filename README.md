@@ -15,6 +15,8 @@ dict_chanel_list = {"你的authorization的值":["url上方的群号","支持多
 #由于discord使用用户过多，通过python 接口访问频繁出现443 访问被拒绝❌
 #此项目暂时无法使用了
 
+作者 🔗：https://linktr.ee/erwaplayblockchain （更多内容）
+
 答疑微信：zxmeng1999
 
 NFT 热门mint 大V跟踪 + 钉钉：15583730895
